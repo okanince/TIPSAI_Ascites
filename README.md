@@ -1,4 +1,4 @@
-# TIPS AI Ascites Project
+# Improving Clinical Decisions in IR: Interpretable Machine Learning Models for Predicting Ascites Improvement after Transjugular Intrahepatic Portosystemic Shunt Procedures
 This is the computer code for our study "**Improving Clinical Decisions in IR: Interpretable Machine Learning Models for Predicting Ascites Improvement after Transjugular Intrahepatic Portosystemic Shunt Procedures**" published at JVIR. 
 
 doi: 10.1016/j.jvir.2024.09.022
