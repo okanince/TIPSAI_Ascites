@@ -1,10 +1,12 @@
 """
 
-This is the code for the project of TIPS Ascites Prediction
+This is the python code for the study 
 
-Full Title and Publication information is TBD
+Improving Clinical Decisions in IR: 
+Interpretable Machine Learning Models for Predicting Ascites Improvement after Transjugular Intrahepatic Portosystemic Shunt Procedures
+of TIPS Ascites Prediction published at JVIR. 
+doi: 10.1016/j.jvir.2024.09.022.
 
-Please stay tuned.
 
 Thanks for reviewing the code, please do not hesitate to contact me if you have questions!
 
